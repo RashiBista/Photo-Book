@@ -1,4 +1,4 @@
-# 🌸 Album
+# Photo-Book
 
 A beautiful sakura-themed photo book app built with pure HTML, CSS, and JavaScript. Upload your photos, apply filters, add stickers, create collages, and organise everything into custom folders — all running entirely in the browser with no dependencies or build step required.
 
