@@ -4,7 +4,7 @@ A beautiful sakura-themed photo book app built with pure HTML, CSS, and JavaScri
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Gallery** — Upload photos via click or drag & drop (JPG, PNG, WEBP)
 - **Photo Editor** — Apply 9 filters and drag-and-drop stickers onto your photos
@@ -15,7 +15,7 @@ A beautiful sakura-themed photo book app built with pure HTML, CSS, and JavaScri
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 sakura-album/
@@ -26,7 +26,7 @@ sakura-album/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 No installation or build step needed. Just open the app in your browser:
 
@@ -45,7 +45,7 @@ Or simply double-click `index.html` on your computer.
 
 ---
 
-## 🎨 Colour Palette
+##  Colour Palette
 
 | Token | Hex | Usage |
 |---|---|---|
@@ -74,7 +74,7 @@ Or simply double-click `index.html` on your computer.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML5** — Semantic markup, File API, Canvas API
 - **CSS3** — Custom properties, Grid, Flexbox, keyframe animations
@@ -105,7 +105,7 @@ Pull requests are welcome! If you'd like to add a feature or fix a bug:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
